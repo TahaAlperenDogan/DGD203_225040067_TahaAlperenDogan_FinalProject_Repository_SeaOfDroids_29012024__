@@ -1,0 +1,42 @@
+C:\Users\trans\Desktop\DGD203-main\bin\Debug\net7.0\DGD203.exe
+C:\Users\trans\Desktop\DGD203-main\bin\Debug\net7.0\DGD203.deps.json
+C:\Users\trans\Desktop\DGD203-main\bin\Debug\net7.0\DGD203.runtimeconfig.json
+C:\Users\trans\Desktop\DGD203-main\bin\Debug\net7.0\DGD203.dll
+C:\Users\trans\Desktop\DGD203-main\bin\Debug\net7.0\DGD203.pdb
+C:\Users\trans\Desktop\DGD203-main\obj\Debug\net7.0\DGD203.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trans\Desktop\DGD203-main\obj\Debug\net7.0\DGD203.AssemblyInfoInputs.cache
+C:\Users\trans\Desktop\DGD203-main\obj\Debug\net7.0\DGD203.AssemblyInfo.cs
+C:\Users\trans\Desktop\DGD203-main\obj\Debug\net7.0\DGD203.csproj.CoreCompileInputs.cache
+C:\Users\trans\Desktop\DGD203-main\obj\Debug\net7.0\DGD203.dll
+C:\Users\trans\Desktop\DGD203-main\obj\Debug\net7.0\refint\DGD203.dll
+C:\Users\trans\Desktop\DGD203-main\obj\Debug\net7.0\DGD203.pdb
+C:\Users\trans\Desktop\DGD203-main\obj\Debug\net7.0\DGD203.genruntimeconfig.cache
+C:\Users\trans\Desktop\DGD203-main\obj\Debug\net7.0\ref\DGD203.dll
+C:\Users\trans\Desktop\DGD203-main - Kopya\bin\Debug\net7.0\DGD203.exe
+C:\Users\trans\Desktop\DGD203-main - Kopya\bin\Debug\net7.0\DGD203.deps.json
+C:\Users\trans\Desktop\DGD203-main - Kopya\bin\Debug\net7.0\DGD203.runtimeconfig.json
+C:\Users\trans\Desktop\DGD203-main - Kopya\bin\Debug\net7.0\DGD203.dll
+C:\Users\trans\Desktop\DGD203-main - Kopya\bin\Debug\net7.0\DGD203.pdb
+C:\Users\trans\Desktop\DGD203-main - Kopya\obj\Debug\net7.0\DGD203.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trans\Desktop\DGD203-main - Kopya\obj\Debug\net7.0\DGD203.AssemblyInfoInputs.cache
+C:\Users\trans\Desktop\DGD203-main - Kopya\obj\Debug\net7.0\DGD203.AssemblyInfo.cs
+C:\Users\trans\Desktop\DGD203-main - Kopya\obj\Debug\net7.0\DGD203.csproj.CoreCompileInputs.cache
+C:\Users\trans\Desktop\DGD203-main - Kopya\obj\Debug\net7.0\DGD203.dll
+C:\Users\trans\Desktop\DGD203-main - Kopya\obj\Debug\net7.0\refint\DGD203.dll
+C:\Users\trans\Desktop\DGD203-main - Kopya\obj\Debug\net7.0\DGD203.pdb
+C:\Users\trans\Desktop\DGD203-main - Kopya\obj\Debug\net7.0\DGD203.genruntimeconfig.cache
+C:\Users\trans\Desktop\DGD203-main - Kopya\obj\Debug\net7.0\ref\DGD203.dll
+C:\Users\trans\Desktop\DGD203\bin\Debug\net7.0\DGD203.exe
+C:\Users\trans\Desktop\DGD203\bin\Debug\net7.0\DGD203.deps.json
+C:\Users\trans\Desktop\DGD203\bin\Debug\net7.0\DGD203.runtimeconfig.json
+C:\Users\trans\Desktop\DGD203\bin\Debug\net7.0\DGD203.dll
+C:\Users\trans\Desktop\DGD203\bin\Debug\net7.0\DGD203.pdb
+C:\Users\trans\Desktop\DGD203\obj\Debug\net7.0\DGD203.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trans\Desktop\DGD203\obj\Debug\net7.0\DGD203.AssemblyInfoInputs.cache
+C:\Users\trans\Desktop\DGD203\obj\Debug\net7.0\DGD203.AssemblyInfo.cs
+C:\Users\trans\Desktop\DGD203\obj\Debug\net7.0\DGD203.csproj.CoreCompileInputs.cache
+C:\Users\trans\Desktop\DGD203\obj\Debug\net7.0\DGD203.dll
+C:\Users\trans\Desktop\DGD203\obj\Debug\net7.0\refint\DGD203.dll
+C:\Users\trans\Desktop\DGD203\obj\Debug\net7.0\DGD203.pdb
+C:\Users\trans\Desktop\DGD203\obj\Debug\net7.0\DGD203.genruntimeconfig.cache
+C:\Users\trans\Desktop\DGD203\obj\Debug\net7.0\ref\DGD203.dll
